@@ -1,0 +1,40 @@
+h1{
+    color: red;
+}
+.naocentralizado{
+    display: flex;
+    text-align: left;
+}
+.centralizador{
+    display: flex;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+body{
+    background-color: black;
+    color: rgb(106, 236, 245);
+
+}
+span{
+    color: aqua;
+}
+.spancolor{
+    color: blueviolet;
+}
+a{
+    font-size: 20px;
+    color: aqua;
+}
+.backgroundmhw{
+    background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/991980/8d1d6b0539973d1ec49ace0bcd67dc9f061b338b.jpg")
+}
+.container{
+ background-color: aliceblue;
+ height: auto;
+}
+.menu{
+    display: block;
+}
