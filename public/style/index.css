@@ -31,6 +31,9 @@ a{
 .backgroundmhw{
     background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/991980/8d1d6b0539973d1ec49ace0bcd67dc9f061b338b.jpg")
 }
+.fontmhw{
+    font-family: 'Covered By Your Grace', cursive;
+}
 .container{
  background-color: aliceblue;
  height: auto;
@@ -38,3 +41,18 @@ a{
 .menu{
     display: block;
 }
+.descricao{
+    color: rgb(252, 248, 248);
+    font-size: 30px;
+    background-color: #2f2b22;
+    border-radius: 30px;
+    }
+    .h1mhw{
+        color: rgb(239, 5, 5);
+        font-size: 90px;
+    }
+    .descricaomhw{
+        color: rgb(86, 241, 14);
+        font-size: 30px;
+    }
+   
