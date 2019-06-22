@@ -18,19 +18,18 @@ body{
     color: rgb(106, 236, 245);
 
 }
-span{
-    color: aqua;
-}
-.spancolor{
-    color: blueviolet;
-}
+
 a{
     font-size: 20px;
-    color: aqua;
+    color: rgb(255, 0, 0);
 }
 .backgroundmhw{
     background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/991980/8d1d6b0539973d1ec49ace0bcd67dc9f061b338b.jpg")
 }
+.backgroundassassin{
+    background-image: url("http://images6.fanpop.com/image/photos/35100000/Assassin-s-Creed-the-assassins-35134583-1280-1024.jpg") 
+}
+
 .fontmhw{
     font-family: 'Covered By Your Grace', cursive;
 }
@@ -55,4 +54,21 @@ a{
         color: rgb(86, 241, 14);
         font-size: 30px;
     }
-   
+   .centralizadorassassin{
+       text-align: center;
+   }
+   .fontassassin{
+    font-family: 'Aguafina Script', cursive;
+   }
+   .h1assassin{
+       color: red;
+       font-size: 90px
+   }
+   .descricaoassassin{
+    color: rgb(241, 8, 8);
+    font-size: 20px;
+   }
+   .descricao2{
+    color: rgb(241, 8, 8);
+    font-size: 40px;
+   }
