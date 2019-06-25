@@ -24,10 +24,19 @@ a{
     color: rgb(255, 0, 0);
 }
 .backgroundmhw{
-    background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/991980/8d1d6b0539973d1ec49ace0bcd67dc9f061b338b.jpg")
+    background: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/991980/8d1d6b0539973d1ec49ace0bcd67dc9f061b338b.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .backgroundassassin{
-    background-image: url("http://images6.fanpop.com/image/photos/35100000/Assassin-s-Creed-the-assassins-35134583-1280-1024.jpg") 
+    background: url("http://images6.fanpop.com/image/photos/35100000/Assassin-s-Creed-the-assassins-35134583-1280-1024.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.backgroundsaints{
+    background: url("https://images3.alphacoders.com/149/thumb-1920-149829.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .fontmhw{
@@ -66,9 +75,10 @@ a{
    }
    .descricaoassassin{
     color: rgb(241, 8, 8);
-    font-size: 20px;
+    font-size: 21px;
    }
    .descricao2{
     color: rgb(241, 8, 8);
     font-size: 40px;
    }
+
