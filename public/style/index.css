@@ -84,10 +84,10 @@ a{
     color: rgb(241, 8, 8);
     font-size: 40px;
    }
-.ladoesquerdo{
+.ladodireito{
     display: flex;
-    text-align: right;
-    align-content: right;
-    justify-content: right;
+    text-align: left
+    align-content: left;
+    justify-content: left;
     flex-direction: column;
 }
