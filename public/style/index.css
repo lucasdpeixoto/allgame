@@ -23,9 +23,9 @@ h3{
 
 }
 body{
-    background-color: black;
-    color: rgb(106, 236, 245);
-
+    background: url("http://sfwallpaper.com/images/computer-game-backgrounds-20.jpg");
+   color: green;
+   font-size: 30px;
 }
 a{
     font-size: 20px;
@@ -99,4 +99,10 @@ a{
 .descricaorow{
     color: #ff00e9;
     font-size: 40px;
+}
+.inicio{
+    color: black;
+    font-size: 30px;
+    border-radius: 25px;
+    background-color:white 
 }
