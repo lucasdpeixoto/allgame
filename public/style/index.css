@@ -1,5 +1,14 @@
 h1{
     color: red;
+    font-size: 90px;
+}
+h2{
+    color: #ff00e9;
+    font-size: 40px;
+}
+h3{
+    color: red;
+    font-size: 90px;
 }
 .naocentralizado{
     display: flex;
@@ -18,7 +27,6 @@ body{
     color: rgb(106, 236, 245);
 
 }
-
 a{
     font-size: 20px;
     color: rgb(255, 0, 0);
@@ -72,10 +80,6 @@ a{
    .fontassassin{
     font-family: 'Aguafina Script', cursive;
    }
-   .h1assassin{
-       color: red;
-       font-size: 90px;
-   }
    .descricaoassassin{
     color: rgb(241, 8, 8);
     font-size: 21px;
@@ -94,10 +98,7 @@ a{
 .fonterow{
     font-family: 'Indie Flower', cursive;
 }
-h2{
-    color: #ff00e9;
-    font-size: 40px;
-}
+
 .descricaorow{
     color: #ff00e9;
     font-size: 40px;
