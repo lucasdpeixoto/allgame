@@ -74,7 +74,7 @@ a{
    }
    .h1assassin{
        color: red;
-       font-size: 90px
+       font-size: 90px;
    }
    .descricaoassassin{
     color: rgb(241, 8, 8);
@@ -90,4 +90,15 @@ a{
     align-content: left;
     justify-content: left;
     flex-direction: column;
+}
+.fonterow{
+    font-family: 'Indie Flower', cursive;
+}
+h2{
+    color: #ff00e9;
+    font-size: 40px;
+}
+.descricaorow{
+    color: #ff00e9;
+    font-size: 40px;
 }
