@@ -12,7 +12,7 @@ Este projeto nada mais é do que um teste para aprimorar as habilidade de html c
 ## como começar
 utilize estas sequencias de comandos:
 ```
-git clone git@github.com:lucasdpeixoto/all-game.git
+git clone git@github.com:lucasdpeixoto/allgame.git
 //entre na pasta que você clonou
 npm install
 npm start
